@@ -23,7 +23,7 @@ https://github.com/cafel176/TerrainDemo
 https://store.steampowered.com/app/1093860/Dear_My_Friend/
 <br/>
 <br/>
-一款地牢探险3D的ARPG游戏
+一款地牢探险3D的ARPG参赛作品
 https://github.com/cafel176/trailblazer
 <br/>
 <br/>
