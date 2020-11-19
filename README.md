@@ -47,11 +47,11 @@ https://github.com/cafel176/pokerGame
 <b>C++项目</b>
 <br/>
 <br/>
-大二时采用glad和glfw制作的opengl展示程序
+大二时采用glad和glfw着色器制作的opengl展示程序
 https://github.com/cafel176/OpenGLProject
 <br/>
 <br/>
-大二时采用glad和glfw制作的跳一跳，采用glm库来进行矩阵运算。
+大二时采用glad和glfw着色器制作的跳一跳。
 https://github.com/cafel176/OpenGLJump
 <br/>
 <br/>
