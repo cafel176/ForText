@@ -1,10 +1,12 @@
 # 项目列表
-以下项目均由本人独自完成所有程序工作，大部分美术资源来自网络或其他个人。<br/>
+以下选取了由本人独自完成所有程序工作的项目，其中大部分美术资源来自网络或其他个人。<br/>
+项目的详细信息可在该项目的ReadMe中查看。<br/>
 <br/>
 <b>Unity项目</b><br/>
 <br/>
-一套基于unity的RPG解密游戏框架，目标是为无计算机基础的开发者朋友省去代码工作。
+<b>一套基于unity的RPG解密游戏框架，目标是为无计算机基础的开发者朋友省去代码工作。</b>
 https://github.com/cafel176/RPGFrameWork
+<br/>
 <br/>
 <br/>
 一款模拟枪械拼装的虚拟仿真项目
@@ -13,6 +15,7 @@ https://github.com/cafel176/GunDemo
 <br/>
 一款采用北京市某区域的真实经纬度和海拔构成的高程图的数据可视化的项目
 https://github.com/cafel176/TerrainDemo
+<br/>
 <br/>
 <br/>
 一款2D像素冒险解谜游戏，源码无法公开故只提供demo的steam地址
@@ -25,6 +28,7 @@ https://github.com/cafel176/trailblazer
 <br/>
 一款2D的ARPG参赛作品
 https://github.com/cafel176/NewGame
+<br/>
 <br/>
 <br/>
 一款用来解压的太空科幻手机游戏。
@@ -63,9 +67,13 @@ https://github.com/cafel176/CanvasBall
 <br/>
 用于少儿教育的web游戏，教导小孩子们设置密码。
 https://github.com/cafel176/PasswordTest
-
-
-
+<br/>
+<br/>
+<b>Web项目</b>
+<br/>
+<br/>
+为某小游戏网站开发新版前端界面(后台是现有的)
+http://h5mota.com/
 
 
 
