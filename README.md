@@ -4,7 +4,7 @@
 <br/>
 <b>近期主要项目：</b><br/>
 <br/>
-<b>一款仿Mitsuba的渲染器。</b>
+<b>一款基于C++的仿Mitsuba渲染器。</b>
 https://github.com/cafel176/cafelRenderer
 <br/>
 <br/>
