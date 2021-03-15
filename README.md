@@ -1,15 +1,28 @@
 # 项目列表
-以下选取了由本人独自完成绝大部分程序工作的项目中的一部分，本人仅参与或修改部分工作的项目未包含其中。<br/>
 每个项目的详细介绍及截图可在该项目页面下方的ReadMe中查看。<br/>
 <br/>
 <br/>
-<b>Unity项目</b><br/>
+<b>近期主要项目：</b><br/>
 <br/>
-<b>一套基于unity的RPG解密游戏框架，目标是为无计算机基础的开发者朋友省去代码工作。</b>
+<b>一款仿Mitsuba的渲染器。</b>
+https://github.com/cafel176/cafelRenderer
+<br/>
+<br/>
+<b>基于unity的RPG解密游戏框架，目标是为流程繁琐，剧情数量多，事件繁杂的剧情向解密游戏提供简单的解决方法。</b>
 https://github.com/cafel176/RPGFrameWork
 <br/>
 <br/>
+采用springboot的文本搜索引擎
+https://github.com/cafel176/TextSearchEngine
 <br/>
+<br/>
+个人作品集展示网站的后台管理系统
+https://github.com/cafel176/Portfolio
+<br/>
+<br/>
+
+<b>其他项目：</b><br/>
+<b>unity：</b><br/>
 一款模拟枪械拼装的虚拟仿真项目
 https://github.com/cafel176/GunDemo
 <br/>
@@ -40,12 +53,12 @@ https://github.com/cafel176/fightGame
 https://github.com/cafel176/JumpJump
 <br/>
 <br/>
-一款我为了给非计算机专业的同学讲解简单游戏编程的简单记忆游戏。
+一款扑克记忆游戏。
 https://github.com/cafel176/pokerGame
 <br/>
 <br/>
 <br/>
-<b>C++项目</b>
+<b>C++项目：</b>
 <br/>
 <br/>
 采用glad和glfw着色器制作的opengl展示程序
@@ -73,11 +86,6 @@ https://github.com/cafel176/PasswordTest
 <br/>
 <br/>
 <br/>
-<b>Web项目</b>
-<br/>
-<br/>
-为某小游戏网站开发新版前端界面(后台是现有的)
-http://h5mota.com/
 
 
 
