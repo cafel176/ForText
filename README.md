@@ -22,6 +22,7 @@ https://github.com/cafel176/Portfolio
 <br/>
 
 <b>其他项目：</b><br/>
+<br/>
 <span id="unity"><b>Unity：</b><br/>
 <br/>
 一款模拟枪械拼装的虚拟仿真项目
@@ -74,7 +75,7 @@ https://github.com/cafel176/MFCGame
 <br/>
 <br/>
 <br/>
-<span id="cpp"><b>Cocos Creator项目</b><br/>
+<span id="ccs"><b>Cocos Creator项目</b><br/>
 <br/>
 和校学工部合作完成助学项目诚信还款的教育活动，设计答题游戏让学生在线参与并进行抽奖。
 https://github.com/cafel176/CanvasBall
