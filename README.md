@@ -59,7 +59,7 @@ https://github.com/cafel176/JumpJump
 https://github.com/cafel176/pokerGame
 <br/>
 <br/>
-使用"OpenCV for Unity"完成的简单视觉项目，程序识别一张手绘地图并生成3D场景：
+使用"OpenCV for Unity"完成的简单视觉项目，程序识别一张简单手绘迷宫并生成3D场景：
 https://github.com/cafel176/Maze
 <br/>
 <br/>
